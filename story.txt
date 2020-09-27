@@ -1,2 +1,1 @@
-Once upon a time there was a boy named Billy. Billy is a CS student at UW-Madison. One day Billy was working on his CS project. Billy was having trouble developing a 
-hash table implementation for his project. 
+  Once upon a time there was a boy named Billy. Billy is a CS student at UW-Madison. One day Billy was working on his CS project. Billy was having trouble developing a hash table implementation for his project. 
