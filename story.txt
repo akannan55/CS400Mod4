@@ -1,3 +1,3 @@
   Once upon a time there was a boy named Billy. Billy is a CS student at UW-Madison. One day Billy was working on his CS project. Billy was having trouble developing a hash table implementation for his project. 
   Billy was already too late to go his TA's office hours, so instead he went to his friends that are also studying computer science for help. He texted his friends to meet at Memorial Library later that night. Two of his friends agreed to help him and they planned to meet there at 9 for what could be a late night of hash tables.
-  
+  But they never showed up, so Billy had to figure out his CS project on his own. It took much longer but he ended up doing far better on exams testing the subject than his friends who did not have the struggle of figuring out the concept on their own.
